@@ -6,7 +6,7 @@
 
 <hr>
 
-In TF-IDF, a score is computed for each word to signify its importance in the piece of text. We first vectorize the document by using a bag-of-words. 
+In TF-IDF, a score is computed for each word to signify its importance in the piece of text. We first vectorize the document by using a bag-of-words model. 
 Then, to represent a piece of text, count the number of times each word appears in the document and is put in the corresponding vector entry. 
 
 Algorithm for TF-IDF: 
